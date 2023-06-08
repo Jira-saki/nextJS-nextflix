@@ -47,4 +47,3 @@ npx create-next-app@latest cm-nextjs-app-route
 
 # get movie api
 - https://www.themoviedb.org/settings/api
-- https://api.themoviedb.org/3/movie/popular?api_key=f853a52787b7c6718c8da9c9d1576f9f
